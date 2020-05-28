@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9a71cb6bbcb2c7de15e8fa886eca3dc",
+    "revision": "9471ad2e77bbf41a8f76cbe187577d15",
     "url": "/nellyMeteoApp/index.html"
   },
   {
-    "revision": "f51d104dace137a3aae2",
+    "revision": "18b1df2565ae2caa2fd5",
     "url": "/nellyMeteoApp/static/css/main.653878cc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nellyMeteoApp/static/js/2.9ab457d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f51d104dace137a3aae2",
-    "url": "/nellyMeteoApp/static/js/main.74f991e4.chunk.js"
+    "revision": "18b1df2565ae2caa2fd5",
+    "url": "/nellyMeteoApp/static/js/main.5a70c9aa.chunk.js"
   },
   {
     "revision": "133e896a51e901512143",

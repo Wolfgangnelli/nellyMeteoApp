@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nellyMeteoApp/static/css/main.653878cc.chunk.css",
-    "main.js": "/nellyMeteoApp/static/js/main.74f991e4.chunk.js",
-    "main.js.map": "/nellyMeteoApp/static/js/main.74f991e4.chunk.js.map",
+    "main.js": "/nellyMeteoApp/static/js/main.5a70c9aa.chunk.js",
+    "main.js.map": "/nellyMeteoApp/static/js/main.5a70c9aa.chunk.js.map",
     "runtime-main.js": "/nellyMeteoApp/static/js/runtime-main.e256e6f6.js",
     "runtime-main.js.map": "/nellyMeteoApp/static/js/runtime-main.e256e6f6.js.map",
     "static/js/2.9ab457d8.chunk.js": "/nellyMeteoApp/static/js/2.9ab457d8.chunk.js",
     "static/js/2.9ab457d8.chunk.js.map": "/nellyMeteoApp/static/js/2.9ab457d8.chunk.js.map",
     "index.html": "/nellyMeteoApp/index.html",
-    "precache-manifest.64ae4effdb582d93826ee954b2c42074.js": "/nellyMeteoApp/precache-manifest.64ae4effdb582d93826ee954b2c42074.js",
+    "precache-manifest.9e69cddd79616f98ef5e90cfd516cab7.js": "/nellyMeteoApp/precache-manifest.9e69cddd79616f98ef5e90cfd516cab7.js",
     "service-worker.js": "/nellyMeteoApp/service-worker.js",
     "static/css/main.653878cc.chunk.css.map": "/nellyMeteoApp/static/css/main.653878cc.chunk.css.map",
     "static/js/2.9ab457d8.chunk.js.LICENSE.txt": "/nellyMeteoApp/static/js/2.9ab457d8.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e256e6f6.js",
     "static/js/2.9ab457d8.chunk.js",
     "static/css/main.653878cc.chunk.css",
-    "static/js/main.74f991e4.chunk.js"
+    "static/js/main.5a70c9aa.chunk.js"
   ]
 }
