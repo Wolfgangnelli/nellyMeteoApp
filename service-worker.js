@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nellyMeteoApp/precache-manifest.a751e1f0136b0129113c885eddfc9fc3.js"
+  "/nellyMeteoApp/precache-manifest.f3b9e08271e7679f96914c2d74f9bd69.js"
 );
 
 self.addEventListener('message', (event) => {
